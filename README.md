@@ -1,13 +1,13 @@
 ## Data Analytics Salary Dashboard (Excel)
 
 
-## Technologies
+## 🛠️Technologies
 -Excel
 
-## Features
+## ✨Features
 - Three dynamic dropdowns for data filtering
 
-## The Process
+## 📋The Process
 As part of my journey to learn Data Analytics on the job, my training involved learning how to create a dashboard in Excel using a provided dataset.
 
 ## 📊 Excel Dashboard Skills Learned
